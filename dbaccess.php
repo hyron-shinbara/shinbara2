@@ -42,5 +42,6 @@ Last Access Time<br><br>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
 Add comment by k.shinbara
+Add comment by k.shinbara 5/2
 </body>
 </html>
